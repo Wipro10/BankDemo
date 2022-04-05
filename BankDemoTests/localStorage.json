@@ -1,0 +1,488 @@
+
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2018-10-07T21:27:14-04:00",
+    "num_results": 38,
+    "results": [
+            {
+            "section": "Obituaries",
+            "subsection": "",
+            "title": "Audrey Wells, Screenwriter Behind ‘The Hate U Give,’ Dies at 58",
+            "abstract": "Audrey Wells, whose work included “Under the Tuscan Sun,” had been privately battling cancer for five years. She died the day before her latest film hit theaters.",
+            "url": "https://www.nytimes.com/2018/10/07/obituaries/audrey-wells-dead.html",
+            "byline": "By SARAH MERVOSH",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T15:14:32-04:00",
+            "created_date": "2018-10-07T09:56:25-04:00",
+            "published_date": "2018-10-07T09:56:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Movies"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Wells, Audrey"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/us/08xp-wells/07xp-wells-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1324,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Audrey Wells directing &ldquo;Under the Tuscan Sun&rdquo; in 2003.",
+                    "copyright": "Buena Vista, via Alamy"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IFWDKu"
+        },
+        {
+            "section": "World",
+            "subsection": "Australia",
+            "title": "A Pastor Pushes Forward as a Drought Threatens His Town and His Church",
+            "abstract": "The specter of harder times hangs over a rural Australian town where the worst of the drought has yet to come.",
+            "url": "https://www.nytimes.com/2018/10/07/world/australia/drought-farmers-nsw.html",
+            "byline": "By RICK ROJAS",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T15:01:06-04:00",
+            "created_date": "2018-10-07T15:01:06-04:00",
+            "published_date": "2018-10-07T15:01:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drought",
+                "Agriculture and Farming",
+                "Ministers (Protestant)",
+                "Rural Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Australia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/00oz-pastor-w-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/00oz-pastor-w-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/merlin_144224142_00036242-37d3-4982-98fc-89ece84eae43-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/merlin_144224142_00036242-37d3-4982-98fc-89ece84eae43-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/world/08oz-pastor-1/merlin_144224142_00036242-37d3-4982-98fc-89ece84eae43-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The worst drought in decades is threatening a way of life in rural communities like Wee Waa, Australia.",
+                    "copyright": "David Maurice Smith for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2IHHnwN"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "title": "How Banksy’s Prank Might Boost His Prices: ‘It’s a Part of Art History’",
+            "abstract": "The artist’s remotely shredded “Girl With Balloon” was meant to poke fun at excesses of the auction world. Yet now his prices look set to soar.",
+            "url": "https://www.nytimes.com/2018/10/07/arts/design/banksy-artwork-painting.html",
+            "byline": "By SCOTT REYBURN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T14:55:38-04:00",
+            "created_date": "2018-10-07T14:55:38-04:00",
+            "published_date": "2018-10-07T14:55:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Art",
+                "Auctions",
+                "Hoaxes and Pranks"
+            ],
+            "org_facet": [
+                "Sotheby's"
+            ],
+            "per_facet": [
+                "Banksy"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 112,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/08banksy1/08banksy1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 798,
+                    "width": 1357,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Banksy’s painting “Girl With Balloon” was shredded just after selling at Sotheby’s in London on Friday. “It’s become worth more as a conceptual moment,” one art dealer said of the work.",
+                    "copyright": "Banksy, via Instagram"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvMU9g"
+        },
+        {
+            "section": "Health",
+            "subsection": "",
+            "title": "Flashy Science Hub and Vaping Parties Fail to Win Friends at W.H.O. Tobacco Talks",
+            "abstract": "Industry representatives, who were barred from the negotiations, ultimately failed to get delegates to designate a special exemption for new products.",
+            "url": "https://www.nytimes.com/2018/10/07/health/tobacco-e-cigarettes-treaty.html",
+            "byline": "By SHEILA KAPLAN",
+            "item_type": "Article",
+            "updated_date": "2018-10-07T20:35:52-04:00",
+            "created_date": "2018-10-07T13:29:16-04:00",
+            "published_date": "2018-10-07T13:29:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Smoking and Tobacco",
+                "E-Cigarettes",
+                "Nicotine",
+                "Treaties",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/05/science/00TOBACCO2/00TOBACCO2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vaping at the “Nicotine Is Not Your Enemy Soirée.”",
+                    "copyright": "Romain Etienne for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CvPV9K"
+        },
+        {
+            "section": "Arts",
+            "subsection": "Music",
+            "title": "The Playlist: Sharon Van Etten Comes Back Strong, and 11 More New Songs",
+            "abstract": "Hear tracks by Halsey, Van Morrison, Alessia Cara and others.",
+            "url": "https://www.nytimes.com/2018/10/05/arts/music/playlist-halsey-mariah-carey-sheck-wes-alessia-cara.html",
+            "byline": "By JON PARELES, JON CARAMANICA and GIOVANNI RUSSONELLO",
+            "item_type": "Article",
+            "updated_date": "2018-10-05T13:28:59-04:00",
+            "created_date": "2018-10-05T13:28:59-04:00",
+            "published_date": "2018-10-05T13:28:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Rap and Hip-Hop",
+                "Pop and Rock Music",
+                "Jazz"
+            ],
+            "org_facet": [
+                "Mothers (Music Group)"
+            ],
+            "per_facet": [
+                "Ahmed, Riz",
+                "Cara, Alessia",
+                "Carey, Mariah",
+                "Frangipane, Ashley Nicolette (Halsey)",
+                "Leschper, Kristine",
+                "Maxwell",
+                "Residente (Rapper)",
+                "Sheck Wes",
+                "Van Etten, Sharon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 238,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/08/arts/music/08playlist/06playlist-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sharon Van Etten&rsquo;s first album since 2014, &ldquo;Remind Me Tomorrow,&rdquo; is due in January.",
+                    "copyright": "Ryan Pfluger"
+                }
+            ],
+            "short_url": "https://nyti.ms/2C02clB"
+        },
+        {
+            "section": "Science",
+            "subsection": "",
+            "title": "A Goblin World That Points Toward Hidden Planet Nine in the Solar System",
+            "abstract": "What astronomers have found about the curious orbit of a small ice world far away reinforces the idea that a large world is hidden out in the solar system.",
+            "url": "https://www.nytimes.com/2018/10/02/science/goblin-planet-nine.html",
+            "byline": "By KENNETH CHANG",
+            "item_type": "Article",
+            "updated_date": "2018-10-02T21:42:33-04:00",
+            "created_date": "2018-10-02T21:41:54-04:00",
+            "published_date": "2018-10-02T21:41:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Space and Astronomy",
+                "Solar System",
+                "Planets"
+            ],
+            "org_facet": [
+                "Astronomical Journal"
+            ],
+            "per_facet": [
+                "Sheppard, Scott S"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2018/10/09/science/03PLANETNINE1/03PLANETNINE1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1032,
+                    "width": 1548,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist's rendering of a large, unseen ninth planet that some astronomers say must be orbiting our sun at a great distance to explain the orbits of other smaller objects.",
+                    "copyright": "Roberto Molar Candanosa and Scott Sheppard, Carnegie Institution for Science"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PaHiUY"
+        }
+    ]
+}
