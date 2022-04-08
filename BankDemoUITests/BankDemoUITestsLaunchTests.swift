@@ -1,9 +1,4 @@
-//
-//  BankDemoUITestsLaunchTests.swift
-//  BankDemoUITests
-//
-//  Created by Santanu on 18/03/2022.
-//
+
 
 import XCTest
 

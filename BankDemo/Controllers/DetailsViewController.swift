@@ -1,9 +1,4 @@
-//
-//  DetailsViewController.swift
-//  BankDemo
-//
-//  Created by Santanu on 18/03/2022.
-//
+
 
 import Foundation
 import UIKit

@@ -1,10 +1,4 @@
-//
-//  TopStoriesListViewModelTests.swift
-//  CodingTestTests
-//
-//  Created by faizal on 07/10/18.
-//  Copyright © 2018 test. All rights reserved.
-//
+
 
 import XCTest
 @testable import BankDemo

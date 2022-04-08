@@ -1,9 +1,3 @@
-//
-//  WebLinkViewController.swift
-//  BankDemo
-//
-//  Created by Santanu on 28/03/2022.
-//
 
 import UIKit
 import WebKit

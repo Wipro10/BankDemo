@@ -1,9 +1,4 @@
-//
-//  Multimedia.swift
-//  BankDemo
-//
-//  Created by Santanu on 18/03/2022.
-//
+
 
 import Foundation
 struct ImageInformation: Codable {
